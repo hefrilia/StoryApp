@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="teks_login">Welcome Back!</string>
+    <string name="dont_have_account">Don\'t Have an Account?</string>
+    <string name="register">Register</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Description</string>
+    <string name="have_account">Have an Account?</string>
+    <string name="teks_register">Create Account</string>
+    <string name="nama">Nama</string>
+    <string name="item_photo">Item Photo</string>
+    <string name="imgpreview">Image Preview</string>
+    <string name="btn_add">Add Story</string>
+    <string name="btn_galeri">Galery</string>
+    <string name="btn_camera">Camera</string>
+    <string name="created_by">Created By: </string>
+    <string name="user">User</string>
+    <string name="text_at">Created at: </string>
+    <string name="text_date">Sunday, 20 Oktober 2022</string>
+    <string name="text_desc">Ini deskripsi</string>
+    <string name="image">image</string>
+    <string name="hint_name">Name</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="use_location">Use location</string>
+
+    <string name="normal">Normal</string>
+    <string name="retro">Retro</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="hybrid">Hybrid</string>
+</resources>
